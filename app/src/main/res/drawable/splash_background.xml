@@ -1,0 +1,5 @@
+<!-- app/src/main/res/drawable/splash_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!-- İsterseniz başka bir renk de verebilirsiniz -->
+    <solid android:color="@color/purple_700"/>
+</shape>

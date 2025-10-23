@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- 'Base' kelimesini sildik ve Manifest'in aradığı isimle eşleştirdik. -->
+    <style name="Theme.ActivitDenemesi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <!-- Splash teması artık doğru temel temadan miras alıyor. -->
+    <style name="Theme.App.Splash" parent="Theme.ActivitDenemesi" >
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36387066831",
+    "project_id": "activitydenemesi",
+    "storage_bucket": "activitydenemesi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36387066831:android:5551c1e4469ae85a94f8ba",
+        "android_client_info": {
+          "package_name": "com.esma.activitdenemesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAHnvfaFgtLH6qGeu9ZL3tQ8QIakJMU_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
